@@ -8,7 +8,10 @@ I'm a sophomore computer science student with a passion for building elegant sol
 ## 🛠  Tools and Technologies
 
 <a name="learning-now"></a>
-
+[<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=blue" alt="c++ logo" title="c" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript" alt="javascript logo" title="Javascript" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=cyan" alt="react logo" title="react" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
@@ -19,17 +22,10 @@ I'm a sophomore computer science student with a passion for building elegant sol
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python" title="Python" height="25" />][tech_tools_anchor]
 
 
 [tech_tools_anchor]: #bonjour--
