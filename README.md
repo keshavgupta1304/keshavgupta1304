@@ -33,7 +33,7 @@ I'm a sophomore computer science student with a passion for building elegant sol
 [learning_next_anchor]: #learning-next
 ## 🔍  Where to find me
 
-<a href = "https://www.linkedin.com/in/keshav-gupta1304/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>    <a href = "https://twitter.com/gupta_kesh20011">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/keshav-gupta1304/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>    <a href = "https://x.com/keshavgupta2907">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavgupta1304&theme=calm\&rank_icon=github)
