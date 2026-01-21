@@ -2,7 +2,7 @@
 <h1> Hey, my name is Keshav Gupta <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-I'm a sophomore computer science student with a passion for building elegant solutions to complex problems. Enthusiastic about open-source collaboration and constantly expanding my skill set. Outside of coding, you'll find me playing sports and exploring different fields of market ,always eager to learn and share insights."
+I'm a final year computer science student with a passion for building elegant solutions to complex problems. Enthusiastic about open-source collaboration and constantly expanding my skill set. Outside of coding, you'll find me playing sports and exploring different fields of market ,always eager to learn and share insights."
 
 <a href="mailto:gupta.keshav1304@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
